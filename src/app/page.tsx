@@ -6,20 +6,14 @@ import {
   faUsers,
   faLock,
   faGlobe,
-  faCheckCircle,
-  faBell,
 } from "@fortawesome/free-solid-svg-icons";
-import {
-  faApple,
-  faGooglePlay,
-  faGithub,
-} from "@fortawesome/free-brands-svg-icons";
+import { faApple, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 export default function Home() {
   const appScreenshots = [
     "/1.jpg",
     "/2.jpg",
-    "/3.jpg",
+    //   "/3.jpg",
     "/4.jpg",
     "/5.jpg",
     "/6.jpg",
@@ -84,7 +78,7 @@ export default function Home() {
               </h1>
 
               <p className="text-lg sm:text-xl text-yellow-500/80 font-kalam font-medium italic -mt-2">
-                let's dump some words for when you're not...
+                let&apos;s dump some words for when you&apos;re not...
               </p>
 
               <div className="w-24 h-1 bg-gradient-to-r from-yellow-500 to-yellow-400 rounded-full"></div>
@@ -252,7 +246,7 @@ export default function Home() {
               <div className="w-24 h-1 bg-gradient-to-r from-yellow-500 to-yellow-400 rounded-full"></div>
 
               <p className="text-lg sm:text-xl text-gray-300 leading-relaxed font-light">
-                Still Alive? is more than just an app—it's your digital
+                Still Alive? is more than just an app—it&apos;s your digital
                 confidant. Express emotions, share confessions, leave behind
                 last words, and connect anonymously with others who understand.
               </p>
