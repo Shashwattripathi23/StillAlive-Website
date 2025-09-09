@@ -53,7 +53,7 @@ export default function MobileFrameCarousel({
           {/* <div className="absolute top-2 left-1/2 transform -translate-x-1/2 w-20 h-6 bg-zinc-900 rounded-full border border-zinc-700 z-10"></div> */}
 
           {/* Screen Content */}
-          <div className="relative w-72 h-[32rem] bg-black rounded-[1.8rem] overflow-hidden">
+          <div className="relative w-72 h-[36rem] bg-black rounded-[1.8rem] overflow-hidden">
             {/* Carousel Container */}
             <div
               className="flex transition-transform duration-500 ease-in-out h-full"

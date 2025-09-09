@@ -166,7 +166,7 @@ export default function Home() {
                 <span className="text-sm sm:text-base">Coming Soon</span>
               </button> */}
               <a
-                href="/app-debug.apk"
+                href="https://github.com/Shashwattripathi23/StillAlive-Website/releases/download/v1.0.1/app-debug.apk"
                 download="StillAlive.apk"
                 className="group relative bg-gradient-to-r from-yellow-500 to-yellow-600 hover:from-yellow-600 hover:to-yellow-700 text-white px-4 py-3 sm:px-8 sm:py-4 rounded-lg sm:rounded-xl text-sm sm:font-semibold transition-all duration-300 transform hover:scale-105 shadow-xl hover:shadow-yellow-500/25 flex items-center justify-center gap-2 sm:gap-3"
               >
@@ -472,7 +472,7 @@ export default function Home() {
               </span>
             </button>
             <a
-              href="/app-debug.apk"
+              href="https://github.com/Shashwattripathi23/StillAlive-Website/releases/download/v1.0.1/app-debug.apk"
               download="StillAlive.apk"
               className="group relative bg-yellow-500 hover:bg-yellow-600 text-white px-10 py-5 rounded-2xl font-semibold text-lg transition-all duration-300 transform hover:scale-105 shadow-xl hover:shadow-yellow-500/25 min-w-[250px] flex items-center justify-center"
             >
